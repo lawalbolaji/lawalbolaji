@@ -7,7 +7,7 @@
 
 I am a seasoned full-stack engineer with over 6 years of experience ⚙️. I speak Javascript, Python 🐍, and Rust 🜡, and I love to dive head-first into databases 👨🏽‍💻. I pride myself on reasoning from first principles, allowing me to approach challenges with a unique and comprehensive perspective. 
 
-<img align="right" alt="img" src="https://github.com/FernandoRoldan93/FernandoRoldan93/blob/master/cover_image.jpg" width="50%" height="auto" />
+<img align="right" alt="img" src="https://github.com/lawalbolaji/lawalbolaji/blob/main/blob/cover_image.jpg" width="50%" height="auto" />
 <img width="50%" align="right" src="https://github-readme-stats.vercel.app/api?username=lawalbolaji&show_icons=true&hide_border=true" />
 
 My varied background in network infrastructure, property tech and operations software, has provided me with a depth of understanding of software technology that is rare. I'm currently building [Inosio](https://portal.inosio.com/), an operations management software for property managers in the US. 
