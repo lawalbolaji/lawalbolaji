@@ -5,12 +5,12 @@
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/abdulrasheed-lawal-16a2239a/)
 [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:lawalabdulrasheedbolaji@gmail.com)
 
-I am a seasoned full-stack engineer with over 6 years of experience ⚙️. I speak Javascript, Python 🐍, and Rust 🜡, and I love to dive head-first into databases 👨🏽‍💻. I pride myself on reasoning from first principles, allowing me to approach challenges with a unique and comprehensive perspective. 
+I am a seasoned full-stack engineer with over 6 years of experience ⚙️. I speak Javascript, Python 🐍, and Rust 🜡, and I love to dive head-first into databases 👨🏽‍💻. Check out my thoughts on tech stuff [here](https://rasheedee.hashnode.dev/) and other stuff [here](https://lawalrasheed.medium.com/).
 
 <img align="right" alt="img" src="https://github.com/lawalbolaji/lawalbolaji/blob/main/blob/cover_image.jpg" width="50%" height="auto" />
 <img width="50%" align="right" src="https://github-readme-stats.vercel.app/api?username=lawalbolaji&show_icons=true&hide_border=true" />
 
-My varied background in network infrastructure, property tech and operations software, has provided me with a depth of understanding of software technology that is rare. I'm currently building [Inosio](https://portal.inosio.com/), an operations management software for property managers in the US. 
+I pride myself on reasoning from first principles; this, combined with my varied background in network infrastructure, property tech and operations software, has provided me with a depth of understanding of software technology that is rare. I'm currently building [Inosio](https://portal.inosio.com/), a saas operations management software for property managers in the US. 
 
 I'm also an expert consultant for [Toggl Hire](https://toggl.com/hire/), creating questions for skills like MySQL, NodeJs, Rust, and General Programming. My questions are used in skills tests taken by thousands of candidates weekly. This is my way of helping employers screen candidates based on ability and skill, not resumes. Read more [here](https://toggl.com/hire/manifesto).
 
