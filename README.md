@@ -12,7 +12,7 @@ I am a seasoned full-stack engineer with over 6 years of experience ⚙️. I sp
 
 My varied background in network infrastructure, property tech and operations software, has provided me with a depth of understanding of software technology that is rare. I'm currently building [Inosio](https://portal.inosio.com/), an operations management software for property managers in the US. 
 
-I'm also an expert consultant for [Toggl Hire] (https://toggl.com/hire/), creating questions for skills like MySQL, NodeJs, Rust, and General Programming. My questions are used in skills tests taken by thousands of candidates weekly. This is my way of helping employers screen candidates based on ability and skill, not resumes. Read more [here](https://toggl.com/hire/manifesto).
+I'm also an expert consultant for [Toggl Hire](https://toggl.com/hire/), creating questions for skills like MySQL, NodeJs, Rust, and General Programming. My questions are used in skills tests taken by thousands of candidates weekly. This is my way of helping employers screen candidates based on ability and skill, not resumes. Read more [here](https://toggl.com/hire/manifesto).
 
 I am always eager to collaborate on exciting projects and contribute my expertise to innovative ventures. If you are looking for a skilled and passionate software engineer with a track record of delivering high-quality solutions, I welcome the opportunity to connect and explore potential collaborations. Let's shape the future of technology together!
 
