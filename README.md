@@ -1,23 +1,21 @@
 ### Hi there 👋 
-### Welcome to my GitHub Page, My name is Abdulrasheed lawal!
+### Welcome to my GitHub Page!
 
 [![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/lawalbolaji)
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/abdulrasheed-lawal-16a2239a/)
 [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:lawalabdulrasheedbolaji@gmail.com)
 
-I am a seasoned backend engineer with over 5 years of experience ⚙️. I speak Javascript, Python 🐍, and Go 🜡, and I love to dive head-first into databases 👨🏽‍💻. Check out my thoughts on tech stuff [here](https://rasheedee.hashnode.dev/) and other stuff [here](https://lawalrasheed.medium.com/).
+I am a software engineer with over 6 years of experience ⚙️. I speak Javascript, Python 🐍, and Go 🜡, and I love to dive head-first into databases 👨🏽‍💻. Check out my thoughts on tech stuff [here](https://rasheedee.hashnode.dev/) and other stuff [here](https://lawalrasheed.medium.com/).
 
 <img align="right" alt="img" src="https://github.com/lawalbolaji/lawalbolaji/blob/main/blob/cover_image.jpg" width="50%" height="auto" />
 <img width="50%" align="right" src="https://github-readme-stats.vercel.app/api?username=lawalbolaji&show_icons=true&hide_border=true" />
 
-I pride myself on reasoning from first principles; this, combined with my varied background in network infrastructure, property tech and operations software, has provided me with a depth of understanding of software technology that is rare. I'm currently building [Inosio](https://portal.inosio.com/), a saas operations management software for property managers in the US and Canada. 
+My experience in building and maintaining network infrastructure, property tech and operations software, has provided me with a depth of understanding of software technology that is rare. I'm currently building [Inosio](https://portal.inosio.com/), an operations management saas for property managers in the US and Canada. 
 
 I'm also an expert consultant for [Toggl Hire](https://toggl.com/hire/), creating questions for skills like MySQL, NodeJs, Go, Next.js and General Programming. My questions are used in skills tests taken by thousands of candidates weekly. This is my way of helping employers screen candidates based on ability and skill, not resumes. Read more [here](https://toggl.com/hire/manifesto).
 
-I am always eager to collaborate on exciting projects and contribute my expertise to innovative ventures. If you are looking for a skilled and passionate software engineer with a track record of delivering high-quality solutions, I welcome the opportunity to connect and explore potential collaborations. Let's shape the future of technology together!
-
 #### 🌱 Some other things I am currently working on: 
-- Building [Ceekrs](https://github.com/lawalbolaji/ceekrs), a multilingual semantic search engine for youtube videos
+- Building [Codraw](https://github.com/lawalbolaji/codraw), a multiplayer sketchboard that will support 100s of simultaneous users on a single board without breaking a sweat
 - Contributing to [Posthog](https://github.com/PostHog/posthog)
 
 #### 🐾 Things I am challenging myself with:
