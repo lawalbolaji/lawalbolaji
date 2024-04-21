@@ -5,7 +5,7 @@
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/abdulrasheed-lawal-16a2239a/)
 [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:lawalabdulrasheedbolaji@gmail.com)
 
-I am a software engineer with over 6 years of experience ⚙️. I speak Javascript, Python 🐍, and Go 🜡, and I love to dive head-first into databases 👨🏽‍💻. Check out my thoughts on tech stuff [here](https://rasheedee.hashnode.dev/) and other stuff [here](https://lawalrasheed.medium.com/).
+I am a software engineer with over 6 years of experience ⚙️. I speak Javascript, Python 🐍, and Go 🜡, and I love to dive head-first into databases 👨🏽‍💻. Check out my thoughts on everything [here](https://lawalrasheed.medium.com/).
 
 <img alt="img" src="https://github.com/lawalbolaji/lawalbolaji/blob/main/blob/cover_image.jpg" width="100%" height="auto" />
 <img width="100%" src="https://github-readme-stats.vercel.app/api?username=lawalbolaji&show_icons=true&hide_border=true" />
