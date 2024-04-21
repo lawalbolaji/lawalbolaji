@@ -1,8 +1,6 @@
 ### Hi there 👋 
 ### Welcome to my GitHub Page!
 
-[![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/abdulrasheed-lawal-16a2239a/)
-
 I am a software engineer with over 6 years of experience ⚙️. I speak Javascript, Python 🐍, and Go 🜡, and I love to dive head-first into databases 👨🏽‍💻. Check out my thoughts on everything [here](https://lawalrasheed.medium.com/).
 
 #### :computer: Programming languages and tools: 
