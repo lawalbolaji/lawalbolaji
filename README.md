@@ -19,7 +19,7 @@ I am a software engineer with over 6 years of experience ⚙️. I speak Javascr
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/rust-lang/rust-lang-ar21.svg"></code>
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/python/python-ar21.svg"></code>
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/reactjs/reactjs-ar21.svg"></code>
-<code><img width="10%" src="[https://www.vectorlogo.zone/logos/reactjs/reactjs-ar21.svg](https://www.vectorlogo.zone/logos/zapier/zapier-ar21.svg)"></code>
+<code><img width="10%" src="https://www.vectorlogo.zone/logos/zapier/zapier-ar21.svg"></code>
 <br />
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/djangoproject/djangoproject-ar21.svg"></code>
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/nodejs/nodejs-ar21.svg"></code>
