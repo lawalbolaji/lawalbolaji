@@ -1,7 +1,7 @@
 ### Hi there 👋 
 ### Welcome to my GitHub Page!
 
-I am a software engineer with over 6 years of experience ⚙️. I speak Javascript, Python 🐍, and Go 🜡, and I love to dive head-first into databases 👨🏽‍💻. Check out my thoughts on everything [here](https://lawalrasheed.medium.com/).
+I am a software engineer with over 7 years of experience ⚙️. I speak Javascript, Python 🐍, and Go 🜡, and I love to dive head-first into databases 👨🏽‍💻. Check out my thoughts on everything [here](https://lawalrasheed.medium.com/).
 
 #### :computer: Programming languages and tools: 
 <p>
